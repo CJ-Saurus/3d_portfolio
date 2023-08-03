@@ -36,4 +36,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Website
 
-https://cj-saurus.github.io/3d_portfolio/
+https://cj-saurus.github.io/3d_portfolio/#projects
+
+## Screenshot
+
+<img src="/screenshot.png/>
