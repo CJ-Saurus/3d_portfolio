@@ -40,4 +40,4 @@ https://cj-saurus.github.io/3d_portfolio/#projects
 
 ## Screenshot
 
-<img src="screenshot.png/>
+<img src="./screenshot.png/>
